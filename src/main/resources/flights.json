@@ -1,0 +1,352 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 2912,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-04T10:56:21-02:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 1739,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-02T09:31:12-02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 4238,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-02T11:40:51-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 4533,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-02T07:28:29-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 7487,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2022-04-03T10:00:43-02:00"
+  },
+  {
+    "flightId": 5,
+    "flightNumber": 3647,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-04T06:01:01-02:00"
+  },
+  {
+    "flightId": 6,
+    "flightNumber": 8443,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2022-04-02T03:11:06-02:00"
+  },
+  {
+    "flightId": 7,
+    "flightNumber": 3527,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-02T05:56:16-02:00"
+  },
+  {
+    "flightId": 8,
+    "flightNumber": 1407,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2022-04-03T07:02:35-02:00"
+  },
+  {
+    "flightId": 9,
+    "flightNumber": 7768,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2022-04-04T11:37:59-02:00"
+  },
+  {
+    "flightId": 10,
+    "flightNumber": 1879,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-03T08:21:06-02:00"
+  },
+  {
+    "flightId": 11,
+    "flightNumber": 3153,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-02T01:09:28-02:00"
+  },
+  {
+    "flightId": 12,
+    "flightNumber": 5223,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-02T03:33:54-02:00"
+  },
+  {
+    "flightId": 13,
+    "flightNumber": 4715,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-04T04:05:17-02:00"
+  },
+  {
+    "flightId": 14,
+    "flightNumber": 3372,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-02T12:39:26-02:00"
+  },
+  {
+    "flightId": 15,
+    "flightNumber": 2938,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-03T04:45:38-02:00"
+  },
+  {
+    "flightId": 16,
+    "flightNumber": 4015,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-03T04:55:00-02:00"
+  },
+  {
+    "flightId": 17,
+    "flightNumber": 8957,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-03T08:12:51-02:00"
+  },
+  {
+    "flightId": 18,
+    "flightNumber": 5281,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-03T11:20:30-02:00"
+  },
+  {
+    "flightId": 19,
+    "flightNumber": 2108,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2022-04-03T01:33:25-02:00"
+  },
+  {
+    "flightId": 20,
+    "flightNumber": 4914,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-04T05:25:33-02:00"
+  },
+  {
+    "flightId": 21,
+    "flightNumber": 4429,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-04T05:57:31-02:00"
+  },
+  {
+    "flightId": 22,
+    "flightNumber": 1094,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-04T02:44:38-02:00"
+  },
+  {
+    "flightId": 23,
+    "flightNumber": 4068,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-03T03:32:47-02:00"
+  },
+  {
+    "flightId": 24,
+    "flightNumber": 4463,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-03T11:36:31-02:00"
+  },
+  {
+    "flightId": 25,
+    "flightNumber": 7113,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-02T02:24:32-02:00"
+  },
+  {
+    "flightId": 26,
+    "flightNumber": 1296,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2022-04-03T01:06:48-02:00"
+  },
+  {
+    "flightId": 27,
+    "flightNumber": 9538,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-02T12:33:31-02:00"
+  },
+  {
+    "flightId": 28,
+    "flightNumber": 2439,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-02T07:35:35-02:00"
+  },
+  {
+    "flightId": 29,
+    "flightNumber": 7035,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2022-04-03T06:20:23-02:00"
+  },
+  {
+    "flightId": 30,
+    "flightNumber": 5067,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-02T08:16:22-02:00"
+  },
+  {
+    "flightId": 31,
+    "flightNumber": 1588,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-02T12:23:19-02:00"
+  },
+  {
+    "flightId": 32,
+    "flightNumber": 1457,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2022-04-03T05:51:19-02:00"
+  },
+  {
+    "flightId": 33,
+    "flightNumber": 6145,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2022-04-03T10:40:07-02:00"
+  },
+  {
+    "flightId": 34,
+    "flightNumber": 2783,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-03T07:36:26-02:00"
+  },
+  {
+    "flightId": 35,
+    "flightNumber": 4559,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2022-04-02T10:58:35-02:00"
+  },
+  {
+    "flightId": 36,
+    "flightNumber": 7725,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2022-04-03T02:08:43-02:00"
+  },
+  {
+    "flightId": 37,
+    "flightNumber": 9696,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2022-04-02T11:33:57-02:00"
+  },
+  {
+    "flightId": 38,
+    "flightNumber": 4891,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-03T02:23:29-02:00"
+  },
+  {
+    "flightId": 39,
+    "flightNumber": 8097,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-03T03:14:13-02:00"
+  },
+  {
+    "flightId": 40,
+    "flightNumber": 4148,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2022-04-02T05:27:28-02:00"
+  },
+  {
+    "flightId": 41,
+    "flightNumber": 3968,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2022-04-04T02:30:14-02:00"
+  },
+  {
+    "flightId": 42,
+    "flightNumber": 2411,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2022-04-04T07:34:25-02:00"
+  },
+  {
+    "flightId": 43,
+    "flightNumber": 5895,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2022-04-03T08:16:37-02:00"
+  },
+  {
+    "flightId": 44,
+    "flightNumber": 7719,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-02T08:56:34-02:00"
+  },
+  {
+    "flightId": 45,
+    "flightNumber": 4887,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-03T05:24:55-02:00"
+  },
+  {
+    "flightId": 46,
+    "flightNumber": 5220,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-04T05:22:41-02:00"
+  },
+  {
+    "flightId": 47,
+    "flightNumber": 1229,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-03T12:27:14-02:00"
+  },
+  {
+    "flightId": 48,
+    "flightNumber": 9260,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-04-04T06:06:46-02:00"
+  },
+  {
+    "flightId": 49,
+    "flightNumber": 6635,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2022-04-04T01:14:52-02:00"
+  }
+]
