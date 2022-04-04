@@ -7,7 +7,7 @@ import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Repository;
 import pl.miles.flightmanager.configuration.ResourceFilesUtil;
 import pl.miles.flightmanager.configuration.JsonObjectMapper;
-import pl.miles.flightmanager.domain.CargoEntity;
+import pl.miles.flightmanager.domain.entity.CargoEntity;
 
 import java.util.Collections;
 import java.util.List;

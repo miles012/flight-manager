@@ -1,4 +1,4 @@
-package pl.miles.flightmanager.configuration;
+package pl.miles.flightmanager.api;
 
 public class FlightNotFoundException extends RuntimeException {
 

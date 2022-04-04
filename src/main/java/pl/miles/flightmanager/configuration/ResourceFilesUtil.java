@@ -20,7 +20,7 @@ public final class ResourceFilesUtil {
         try {
             return IOUtils.toString(is, StandardCharsets.UTF_8);
         } catch (IOException e) {
-            throw new RuntimeException("Cannot load demo data", e);
+            throw new RuntimeException("Could not load demo data", e);
         }
     }
 }

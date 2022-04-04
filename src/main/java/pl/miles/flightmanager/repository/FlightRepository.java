@@ -1,6 +1,6 @@
 package pl.miles.flightmanager.repository;
 
-import pl.miles.flightmanager.domain.FlightEntity;
+import pl.miles.flightmanager.domain.entity.FlightEntity;
 
 import java.time.ZonedDateTime;
 import java.util.List;

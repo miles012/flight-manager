@@ -1,6 +1,11 @@
 package pl.miles.flightmanager.domain;
 
 import org.springframework.stereotype.Service;
+import pl.miles.flightmanager.domain.dto.AirportInfoDto;
+import pl.miles.flightmanager.domain.dto.FlightInfoDto;
+import pl.miles.flightmanager.domain.entity.CargoRecord;
+import pl.miles.flightmanager.domain.entity.FlightEntity;
+import pl.miles.flightmanager.domain.entity.WeightUnit;
 import pl.miles.flightmanager.repository.CargoRepository;
 import pl.miles.flightmanager.repository.FlightRepository;
 

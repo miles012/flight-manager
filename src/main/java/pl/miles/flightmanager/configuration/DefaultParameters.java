@@ -1,6 +1,6 @@
 package pl.miles.flightmanager.configuration;
 
-import pl.miles.flightmanager.domain.WeightUnit;
+import pl.miles.flightmanager.domain.entity.WeightUnit;
 
 import java.time.ZoneId;
 

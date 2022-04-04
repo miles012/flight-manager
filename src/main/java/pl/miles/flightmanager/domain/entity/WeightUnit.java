@@ -1,4 +1,4 @@
-package pl.miles.flightmanager.domain;
+package pl.miles.flightmanager.domain.entity;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 
