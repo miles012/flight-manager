@@ -9,6 +9,12 @@ public class CargoEntity {
     private List<CargoRecord> baggage;
     private List<CargoRecord> cargo;
 
+    public CargoEntity(int flightId, List<CargoRecord> baggage, List<CargoRecord> cargo) {
+        this.flightId = flightId;
+        this.baggage = baggage;
+        this.cargo = cargo;
+    }
+
     public int getFlightId() {
         return flightId;
     }

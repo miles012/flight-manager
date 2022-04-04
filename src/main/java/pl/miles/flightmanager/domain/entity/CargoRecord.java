@@ -7,6 +7,13 @@ public class CargoRecord {
     private WeightUnit weightUnit;
     private int pieces;
 
+    public CargoRecord(int id, int weight, WeightUnit weightUnit, int pieces) {
+        this.id = id;
+        this.weight = weight;
+        this.weightUnit = weightUnit;
+        this.pieces = pieces;
+    }
+
     public int getId() {
         return id;
     }
